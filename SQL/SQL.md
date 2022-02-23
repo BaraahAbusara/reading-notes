@@ -93,15 +93,15 @@ if you didn't specify a condition the whole data in the table is going to be del
 
 In the following picture you will find most known  data types can be used when creating tables:
 
->![Data Types](./assests/datatypes.jpg)
+![Data Types](./assests/datatypes.jpg)
 
-> ###### This table is taken from the same tutorial. 
+ ###### This table is taken from the same tutorial. 
 
  In the following picture you will find most known  constraints can be used when creating tables:
 
- >![Constraints](./assests/constraints.jpg)
+ ![Constraints](./assests/constraints.jpg)
 
-> ###### This table is taken from the same tutorial. 
+ ###### This table is taken from the same tutorial. 
 
 + ### Adding columns :
     syntax :  
