@@ -4,7 +4,7 @@ Observations and questions from the reading assignments throughout my journey in
 ## Code 401 - Advanced Software Development
 
 
-| Class        | Subject   | Link       |
-|--------------|-----------|------------|
-| **Prep**     | SQL       | [Link](https://baraahabusara.github.io/reading-notes/SQL/SQL)       |
-| **Lab01**   | Java Basics  |Link  |
+| Class       | Subject   | Link       |
+|-------------|-----------|------------|
+| **Prep**    | SQL       | [Link](https://baraahabusara.github.io/reading-notes/SQL/SQL)       |
+| **Lab01**   | Java Basics  |[Link](https://baraahabusara.github.io/reading-notes/Class01/readings-01)|

@@ -137,5 +137,5 @@ Pay attention that before deleting the table you have to handle related tables b
 
 
 
-[Click HERE](https://docs.google.com/document/d/1FA-M8SInvMmxClCFHuFGsBh6VRMzXXxPK_eAX-RkOto/edit?usp=sharing) to find screenshots of my completed tasks is the course. 
+Click [HERE](https://docs.google.com/document/d/1FA-M8SInvMmxClCFHuFGsBh6VRMzXXxPK_eAX-RkOto/edit?usp=sharing) to find screenshots of my completed tasks is the course. 
 
