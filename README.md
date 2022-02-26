@@ -9,3 +9,4 @@ Observations and questions from the reading assignments throughout my journey in
 |-------------|-----------|------------|
 | **Prep**    | SQL       | [Link](https://baraahabusara.github.io/reading-notes/SQL/SQL)       |
 | **Lab01**   | Java Basics  |[Link](https://baraahabusara.github.io/reading-notes/Class01/readings-01)|
+| **Lab02**   | Arrays, Loops, Imports|[Link](https://baraahabusara.github.io/reading-notes/Class02/readings-02)|
