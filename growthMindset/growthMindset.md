@@ -1,5 +1,5 @@
 # Growth Mindset 
-**Course : [Introduction to SQL](https://sqlbolt.com/)**
+
 
 In this file I will be summarizing what I have learnt in growth mindset preperation task. I was requiered to :
 - Read [Upgrade Your Technical Skills with Deliberate Practice. ](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
