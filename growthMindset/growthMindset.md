@@ -39,3 +39,5 @@ No one knows yet, but all we know that :
 
 ## Alain de Botton on Redefining Success:
 ***
+In this video I really liked a very important idea which is to ensure that the success we are looking and working to gain is what we want to what powerful forces are sending us into. Why would us want to win in a war that is not ours and won't give a benifit for us anyway?   
+he also talked about other topics like how failure definition changed through time , in before times they were used to say about non-successful people unfortunates , which means that it is not from their doings , they were not given the fortunate to be successful. while nowadays they call them failures which makes it harder on them to believe that they can change it because it is from their acts. I really find it weird how our thought really get affected by our communities and other forces. 
