@@ -13,3 +13,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab02**   | Arrays, Loops, Imports|[Link](https://baraahabusara.github.io/reading-notes/Class02/readings-02)|
 | **Lab03**   | Maps, primitives, File I/O|[Link](https://baraahabusara.github.io/reading-notes/Class03/readings-03)|
 | **Lab04**   |OOP |[Link](https://baraahabusara.github.io/reading-notes/Class04/readings-04)|
+| **Lab05**   |Linked Lists |[Link](https://baraahabusara.github.io/reading-notes/Class05/readings-05)|
