@@ -7,7 +7,7 @@ Observations and questions from the reading assignments throughout my journey in
 | Class       | Subject   | Link       |
 |-------------|-----------|------------|
 | **Prep**    | SQL       | [Link](https://baraahabusara.github.io/reading-notes/SQL/SQL)       |
-| **Prep**    | Practice In The Terminal | [Link](https://baraahabusara.github.io/reading-notes/PracticeInTheTerminal/PracticeInTheTerminal)       |
+| **Prep**    | Practice In The Terminal | [Link](https://baraahabusara.github.io/reading-notes/TerminalPractice/TerminalPractice.md)      |
 | **Prep**    | Growth Mindset | [Link](https://baraahabusara.github.io/reading-notes/growthMindset/growthMindset)       |
 | **Lab01**   | Java Basics  |[Link](https://baraahabusara.github.io/reading-notes/Class01/readings-01)|
 | **Lab02**   | Arrays, Loops, Imports|[Link](https://baraahabusara.github.io/reading-notes/Class02/readings-02)|
