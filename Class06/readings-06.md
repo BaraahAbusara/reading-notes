@@ -1,4 +1,4 @@
-# Class-06 :
+# Class-06 :Inheritance and Interfaces
 ***
 
 In this file I will be summarizing what I have learnt in class-06 reading notes which included the following resources : 
