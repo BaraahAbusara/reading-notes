@@ -17,3 +17,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab05**   |Linked Lists |[Link](https://baraahabusara.github.io/reading-notes/Class05/readings-05)|
 | **Lab06**   |Inheritance and Interfaces |[Link](https://baraahabusara.github.io/reading-notes/Class06/readings-06)|
 | **Lab08**   | OO Design |[Link](https://baraahabusara.github.io/reading-notes/Class08/readings-08)|
+| **Lab09**   | WRRC and Java |[Link](https://baraahabusara.github.io/reading-notes/Class09/readings-09)|
