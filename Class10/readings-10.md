@@ -22,7 +22,7 @@ Queue is a data structrue that is made just like a queue on a counter who comes 
 
 Methods available for queues :
 - Enqueue O(1) : it pushes the new node to the end of the queue. 
-- Dequeue O(1) : it removes the first node of the stack. 
+- Dequeue O(1) : it removes the first node of the queue. 
 - Peek O(1) : it returns the value of the first element in the queue. 
 - IsEmpty O(1) : it returns a boolean telling us if the queue is empty or not. 
 
