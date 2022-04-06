@@ -1,4 +1,4 @@
-# Class-16 : Spring Authentication
+# Class-19 : Spring and Sockets	
 ***
 
 In this file I will be summarizing what I have learnt in class-19 reading notes which included the following resources : 
