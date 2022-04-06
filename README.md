@@ -22,3 +22,6 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab12**   | Spring RESTful Routing & Static Files |[Link](https://baraahabusara.github.io/reading-notes/Class12/readings-12)|
 | **Lab13**   | Related Resources and Integration Testing |[Link](https://baraahabusara.github.io/reading-notes/Class13/readings-13)|
 | **Lab16**   | Spring Authentication |[Link](https://baraahabusara.github.io/reading-notes/Class16/readings-16)|
+| **Lab17**   |  Spring Authorization |[Link](https://baraahabusara.github.io/reading-notes/Class17/readings-17)|
+| **Lab18**   | Web App Security |[Link](https://baraahabusara.github.io/reading-notes/Class18/readings-18)|
+| **Lab19**   |  Spring and Sockets|[Link](https://baraahabusara.github.io/reading-notes/Class19/readings-19)|
