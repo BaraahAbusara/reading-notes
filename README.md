@@ -26,3 +26,5 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab17**   |  Spring Authorization |[Link](https://baraahabusara.github.io/reading-notes/Class17/readings-17)|
 | **Lab18**   | Web App Security |[Link](https://baraahabusara.github.io/reading-notes/Class18/readings-18)|
 | **Lab19**   |  Spring and Sockets|[Link](https://baraahabusara.github.io/reading-notes/Class19/readings-19)|
+| **Lab26**   |  Android Fundamentals	|[Link](https://baraahabusara.github.io/reading-notes/Class26/readings-26)|
+| **Lab27**   |   Intents, Activities, and SharedPreferences|[Link](https://baraahabusara.github.io/reading-notes/Class27/readings-27)|
