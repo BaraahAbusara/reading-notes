@@ -27,3 +27,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab19**   |  Spring and Sockets|[Link](https://baraahabusara.github.io/reading-notes/Class19/readings-19)|
 | **Lab26**   |  Android Fundamentals	|[Link](https://baraahabusara.github.io/reading-notes/Class26/readings-26)|
 | **Lab27**   |   Intents, Activities, and SharedPreferences|[Link](https://baraahabusara.github.io/reading-notes/Class27/readings-27)|
+| **Lab28**   | RecyclerView |[Link](https://baraahabusara.github.io/reading-notes/Class28/readings-28)|
