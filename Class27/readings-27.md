@@ -13,9 +13,9 @@ A task is group of activities that users interact with when trying to do somethi
 These activities are arranged in the back stack ordered in which each activity is opened. 
 
 ### Lifecycle of a task and its back stack :
-![Lifecycle of a task and its back stack ](https://developer.android.com/images/fundamentals/diagram_backstack.png)  
+![Lifecycle of a task and its back stack ](https://developer.android.com/images/fundamentals/diagram_backstack.png)
 
-### Back press behavior for root launcher activities :
+Back press behavior for root launcher activities :
 Root launcher declares an Intent filter with both `ACTION_MAIN` and `CATEGORY_LAUNCHER`.
 default behavior for *Android 12 and higher* lets users able more quickly resume the application from a warm state, instead of having to completely restart the application from a cold state. The system moves the activity and its task to the background instead of finishing the activity.
 
