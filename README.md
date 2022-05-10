@@ -29,3 +29,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab27** |   Intents, Activities, and SharedPreferences| [Link](https://baraahabusara.github.io/reading-notes/Class27/readings-27)               |
 | **Lab28** | RecyclerView | [Link](https://baraahabusara.github.io/reading-notes/Class28/readings-28)               |
 | **Lab29** | Room | [Link](https://baraahabusara.github.io/reading-notes/Class29/readings-29)               |
+| **Lab30** | Hash Tables | [Link](https://baraahabusara.github.io/reading-notes/Class30/readings-30)               |
