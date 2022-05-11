@@ -29,7 +29,15 @@ Following some of the  services AWS Amplify uses behind the scenes :
 
 
 ## Usage 
-To use AWS Amplify features you need to ineract with it through its CLI library which can be installed to the terminal. 
+To use AWS Amplify features you need to ineract with it through :
+1.**its CLI library** which can be installed to the terminal. 
 To create a new project,use `amplify configure` and `amplify init` command.
 for adding an API use `amplify add api`
 then you can create your application and finally run a deploy command to let everyone use your application. 
+2. **The administration UI** , Using it, you can easily add Data Models including their fields and types . In addition ,you can add relationships between them.  
+ The cool part is that Amplify will generate model files that you can use in your application code and defining relationships between models, Amplify will automatically generate the correct database indexes to support relationship style lookup patterns.  
+ So for visual learners, that's a bless . 
+
+## Pros and Cons of Amplify
+
+![Pros and Cons of Amplify](https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/09/image-31.png?resize=768%2C338&ssl=1)
