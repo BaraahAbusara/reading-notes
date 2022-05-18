@@ -8,7 +8,7 @@ In this file I will be summarizing what I have learnt in class-31 reading notes 
 
 ## What Is AWS Amplify ?
  AWS Amplify is a toolchain that helps you build and deploy entire applications very quickly.
-What is speacial about AWS Amplify is that Amplify offeres direct feature integration with AWS’ powerful backend services.
+What is special about AWS Amplify is that Amplify offeres direct feature integration with AWS’ powerful backend services.
 Following are Languages/platforms supported by AWS Amplify :
 ![ Languages/platforms supported by AWS Amplify](https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/09/image-27.png?resize=768%2C447&ssl=1)
 
