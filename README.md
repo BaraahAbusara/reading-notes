@@ -31,3 +31,5 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab29** | Room | [Link](https://baraahabusara.github.io/reading-notes/Class29/readings-29)               |
 | **Lab30** | Hash Tables | [Link](https://baraahabusara.github.io/reading-notes/Class30/readings-30)               |
 | **Lab31** | Espresso | [Link](https://baraahabusara.github.io/reading-notes/Class31/readings-31)               |
+| **Lab32** | Serverless and Amplify | [Link](https://baraahabusara.github.io/reading-notes/Class32/readings-32)               |
+| **Lab33** | GraphQL @connection | [Link](https://baraahabusara.github.io/reading-notes/Class33/readings-33)               |
