@@ -33,3 +33,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab31** | Espresso | [Link](https://baraahabusara.github.io/reading-notes/Class31/readings-31)               |
 | **Lab32** | Serverless and Amplify | [Link](https://baraahabusara.github.io/reading-notes/Class32/readings-32)               |
 | **Lab33** | GraphQL @connection | [Link](https://baraahabusara.github.io/reading-notes/Class33/readings-33)               |
+| **Lab34** | Monetization | [Link](https://baraahabusara.github.io/reading-notes/Class34/readings-34)               |
