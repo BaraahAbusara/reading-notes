@@ -35,3 +35,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab33** | GraphQL @connection | [Link](https://baraahabusara.github.io/reading-notes/Class33/readings-33)               |
 | **Lab34** | Monetization | [Link](https://baraahabusara.github.io/reading-notes/Class34/readings-34)               |
 | **Lab35** | Graphs | [Link](https://baraahabusara.github.io/reading-notes/Class35/readings-35)               |
+| **Lab36** | Cognito | [Link](https://baraahabusara.github.io/reading-notes/Class36/readings-36)               |
