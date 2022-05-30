@@ -37,3 +37,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab35** | Graphs | [Link](https://baraahabusara.github.io/reading-notes/Class35/readings-35)               |
 | **Lab36** | Cognito | [Link](https://baraahabusara.github.io/reading-notes/Class36/readings-36)               |
 | **Lab37** | S3 | [Link](https://baraahabusara.github.io/reading-notes/Class37/readings-37)               |
+| **Lab38** | Notifications | [Link](https://baraahabusara.github.io/reading-notes/Class38/readings-38)               |
