@@ -1,4 +1,4 @@
-# Class-37 : Notifications
+# Class-38 : Notifications
 
 
 In this file I will be summarizing what I have learnt in class-38 reading notes which included the following resources :
