@@ -38,3 +38,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab36** | Cognito | [Link](https://baraahabusara.github.io/reading-notes/Class36/readings-36)               |
 | **Lab37** | S3 | [Link](https://baraahabusara.github.io/reading-notes/Class37/readings-37)               |
 | **Lab38** | Notifications | [Link](https://baraahabusara.github.io/reading-notes/Class38/readings-38)               |
+| **Lab39** | Kinesis | [Link](https://baraahabusara.github.io/reading-notes/Class39/readings-39)               |
