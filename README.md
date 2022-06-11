@@ -40,3 +40,6 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab37** | S3 | [Link](https://baraahabusara.github.io/reading-notes/Class37/readings-37)               |
 | **Lab38** | Notifications | [Link](https://baraahabusara.github.io/reading-notes/Class38/readings-38)               |
 | **Lab39** | Kinesis | [Link](https://baraahabusara.github.io/reading-notes/Class39/readings-39)               |
+| **Lab41** | Intent Filters | [Link](https://baraahabusara.github.io/reading-notes/Class41/readings-41)               |
+| **Lab42** | Monetization And AdMob Ads | [Link](https://baraahabusara.github.io/reading-notes/Class42/readings-42)               |
+| **Lab43** |  OSS Contributions | [Link](https://baraahabusara.github.io/reading-notes/Class43/readings-43)               |
