@@ -6,7 +6,7 @@ In this file I will be summarizing what I have learnt in class-39 reading notes 
 
 ## Location
 ***
-When ou create your application and you want to use your user's current location , you can do that using the Google Play services location APIs using the fused location provider to retrieve the device's last known location.
+When you create your application and you want to use your user's current location , you can do that using the Google Play services location APIs using the fused location provider to retrieve the device's last known location.
 
 ### How?
 1. Set up Google Play services :
