@@ -42,3 +42,4 @@ Observations and questions from the reading assignments throughout my journey in
 | **Lab41** | Intent Filters | [Link](https://baraahabusara.github.io/reading-notes/Class41/readings-41)               |
 | **Lab42** | Monetization And AdMob Ads | [Link](https://baraahabusara.github.io/reading-notes/Class42/readings-42)               |
 | **Lab43** |  OSS Contributions | [Link](https://baraahabusara.github.io/reading-notes/Class43/readings-43)               |
+| **Lab44** |  Ethics in Tech | [Link](https://baraahabusara.github.io/reading-notes/Class44/readings-44)               |
